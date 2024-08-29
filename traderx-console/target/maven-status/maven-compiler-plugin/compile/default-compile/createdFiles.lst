@@ -1,0 +1,9 @@
+com\finxis\traderxconsole\ui\TraderXConsolePanel.class
+com\finxis\traderxconsole\ui\TraderXConsoleFrame.class
+com\finxis\traderxconsole\PowerShellCommand.class
+com\finxis\traderxconsole\Service.class
+com\finxis\traderxconsole\ui\ServiceTable.class
+com\finxis\traderxconsole\TraderXConsoleApplication.class
+com\finxis\traderxconsole\TraderXConsole.class
+com\finxis\traderxconsole\ServiceTableModel.class
+com\finxis\traderxconsole\ui\ServicePanel.class
